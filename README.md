@@ -1,6 +1,6 @@
 ## RSpec test
 
-For this test, I had to install RSpec and test 6 examples to see the behavoir of the Rspec. 
+For this test, I had to install RSpec and test 6 examples to see the behavior of the Rspec. 
 
 ## Tecnologies: 
 
